@@ -1,0 +1,1 @@
+openai_key = "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"
